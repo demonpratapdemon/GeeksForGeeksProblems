@@ -1,7 +1,7 @@
 /**
  * 
  */
-package problems;
+package problems.Arrays;
 
 import java.io.IOException;
 import java.util.Scanner;

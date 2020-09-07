@@ -5,4 +5,4 @@
  * @author PRATAP
  *
  */
-package problems;
+package problems.Arrays;
