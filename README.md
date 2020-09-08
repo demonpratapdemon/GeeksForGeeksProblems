@@ -5,3 +5,4 @@ Problems solved from GeeksForGeeks:
 2. Subarray with given sum = https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0
 3. Count the Triplets = https://practice.geeksforgeeks.org/problems/count-the-triplets/0
 4. Kadane's Algorithm = https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0
+5. Missing Number in Array = https://practice.geeksforgeeks.org/problems/missing-number-in-array/0
