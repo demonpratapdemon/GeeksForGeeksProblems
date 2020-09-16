@@ -12,6 +12,7 @@ ARRAY
 6. Merge 2 Sorted Arrays(without extra space) = https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays/0/
 7. Number of pairs where (x^y > y^x) = https://practice.geeksforgeeks.org/problems/number-of-pairs/0/
 8. Inversions in array (using Merge Sort) = https://practice.geeksforgeeks.org/problems/inversion-of-array/0/
+9. Rearrange Array Alternately = https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately/0/
 
 
 STRINGS
