@@ -14,6 +14,7 @@ ARRAY
 8. Inversions in array (using Merge Sort) = https://practice.geeksforgeeks.org/problems/inversion-of-array/0/
 9. Rearrange Array Alternately = https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately/0/
 10. Kth Smallest Element = https://practice.geeksforgeeks.org/problems/kth-smallest-element/0
+11. Reverse array in groups = https://practice.geeksforgeeks.org/problems/reverse-array-in-groups/0
 
 
 STRINGS
