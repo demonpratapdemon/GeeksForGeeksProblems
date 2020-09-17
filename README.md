@@ -13,6 +13,7 @@ ARRAY
 7. Number of pairs where (x^y > y^x) = https://practice.geeksforgeeks.org/problems/number-of-pairs/0/
 8. Inversions in array (using Merge Sort) = https://practice.geeksforgeeks.org/problems/inversion-of-array/0/
 9. Rearrange Array Alternately = https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately/0/
+10. Kth Smallest Element = https://practice.geeksforgeeks.org/problems/kth-smallest-element/0
 
 
 STRINGS

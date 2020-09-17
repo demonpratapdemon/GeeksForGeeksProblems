@@ -81,7 +81,8 @@ class Solution {
 			totalPairs += n - pos;
 		}
 
-		totalPairs += numbersInY[0] + numbersInY[1]; // no f )'s and 1's in Y will be skipped and hence included because
+		totalPairs += numbersInY[0] + numbersInY[1]; // no of 0's and 1's in Y will be skipped and hence included
+														// because
 														// they also satisfy (x^y > y^x)
 
 		if (x == 2)
