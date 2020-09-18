@@ -16,6 +16,7 @@ ARRAY
 10. Kth Smallest Element = https://practice.geeksforgeeks.org/problems/kth-smallest-element/0
 11. Reverse array in groups = https://practice.geeksforgeeks.org/problems/reverse-array-in-groups/0
 12. Spirally Traversing a matrix = https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0
+13. Chocolate Distribution Problem = https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0
 
 
 STRINGS
