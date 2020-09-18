@@ -17,6 +17,7 @@ ARRAY
 11. Reverse array in groups = https://practice.geeksforgeeks.org/problems/reverse-array-in-groups/0
 12. Spirally Traversing a matrix = https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0
 13. Chocolate Distribution Problem = https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0
+14. Equilibrium point = https://practice.geeksforgeeks.org/problems/equilibrium-point/0
 
 
 STRINGS
