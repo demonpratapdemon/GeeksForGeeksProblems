@@ -19,6 +19,11 @@ ARRAY
 13. Chocolate Distribution Problem = https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0
 14. Equilibrium point = https://practice.geeksforgeeks.org/problems/equilibrium-point/0
 
+Dynamic Programming
+==========================================
+1. 0/1 Knapsack problem(Top Down Memoization and Bottom Up) = https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0
+
+
 
 STRINGS
 ==========================================
