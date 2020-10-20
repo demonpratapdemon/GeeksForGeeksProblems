@@ -22,7 +22,7 @@ ARRAY
 Dynamic Programming
 ==========================================
 1. 0/1 Knapsack problem(Top Down Memoization and Bottom Up) = https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0
-
+2. Longest Common Subsequence(Bottom Up) = https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0
 
 
 STRINGS
