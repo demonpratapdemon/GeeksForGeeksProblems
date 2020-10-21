@@ -31,3 +31,4 @@ STRINGS
 2. Anagram(Same characters, same frequency, different arrangements) = https://practice.geeksforgeeks.org/problems/anagram/0
 3. Form a Palindrome = https://practice.geeksforgeeks.org/problems/form-a-palindrome/0
 4. Longest Palindromic Substring(Using DP in O(n2)) = https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0#
+5. Remove all adjacent duplicates = https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates/0

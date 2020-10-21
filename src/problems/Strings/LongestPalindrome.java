@@ -50,7 +50,7 @@ public class LongestPalindrome {
 			int k = str.length() - i - 2; // for keeping track of now of rows to be traversed in each iteration
 			for (int j = 0; j < k; j++) { // for keeping track of rows and columns we need to check. Basically, they
 											// rows indicate start index and column indicate end index
-//				System.out.println("row = " + j + " col = " + (j + i + 2));
+//				System.out.println("row = " + j + " column = " + (j + i + 2));
 //				System.out.println("cache value = " + cache[j + 1][j + i + 1]);
 				if (str.charAt(j) == str.charAt(j + i + 2) && cache[j + 1][j + i + 1] == 1) {
 					cache[j][j + i + 2] = 1;
