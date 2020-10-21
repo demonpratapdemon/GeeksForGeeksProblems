@@ -30,3 +30,4 @@ STRINGS
 1. Reverse words in a given String = https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string/0
 2. Anagram(Same characters, same frequency, different arrangements) = https://practice.geeksforgeeks.org/problems/anagram/0
 3. Form a Palindrome = https://practice.geeksforgeeks.org/problems/form-a-palindrome/0
+4. Longest Palindromic Substring(Using DP in O(n2)) = https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0#
