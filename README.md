@@ -18,6 +18,7 @@ ARRAY
 12. **Spirally Traversing a matrix** = https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0
 13. **Chocolate Distribution Problem** = https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0
 14. **Equilibrium point** = https://practice.geeksforgeeks.org/problems/equilibrium-point/0
+15. **Pythagorean Triplet** = https://practice.geeksforgeeks.org/problems/pythagorean-triplet3018/1
 
 Dynamic Programming
 ==========================================
