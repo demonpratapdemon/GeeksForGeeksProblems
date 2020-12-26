@@ -20,6 +20,7 @@ ARRAY
 14. **Equilibrium point** = https://practice.geeksforgeeks.org/problems/equilibrium-point/0
 15. **Pythagorean Triplet** = https://practice.geeksforgeeks.org/problems/pythagorean-triplet3018/1
 16. **Largest Number Formed From an Array** = https://practice.geeksforgeeks.org/problems/largest-number-formed-from-an-array1117/1#
+17. **Stock Buy and Sell** = https://practice.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1
 
 Dynamic Programming
 ==========================================
