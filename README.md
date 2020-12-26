@@ -41,3 +41,4 @@ LINKED LIST
 ==========================================
 1. **Finding middle element of a Linked List** = https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1#
 2. **Reverse a Linked List** = https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1
+3. **Rotate a Linked List** = https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1
