@@ -3,6 +3,8 @@
  */
 package problems.util;
 
+import problems.Entity.Node;
+
 /**
  * @author PRATAP
  *
@@ -26,5 +28,13 @@ public class Utility {
 				end = mid - 1;
 		}
 		return false;
+	}
+
+	public static void printLis(Node node) {
+		while (node != null) {
+			System.out.print (node.data +" ");
+			node = node.next;
+		}
+		System.out.println();
 	}
 }

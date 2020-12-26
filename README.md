@@ -36,3 +36,7 @@ STRINGS
 4. **Longest Palindromic Substring(Using DP in O(n2** = https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0#
 5. **Remove all adjacent duplicates** = https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates/0
 6. **Remove duplicates** = https://practice.geeksforgeeks.org/problems/remove-duplicates3034/1
+
+LINKED LIST
+==========================================
+1. **Finding middle element of a Linked List** = https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1#
