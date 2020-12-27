@@ -37,4 +37,15 @@ public class Utility {
 		}
 		System.out.println();
 	}
+	
+	public static void makeloop(Node head, Node tail, int x) {
+		// TODO Auto-generated method stub
+		if (x == 0)
+			return;
+		Node curr = head;
+		for (int i = 1; i < x; i++) {
+			curr = curr.next;
+		}
+		tail.next = curr;
+	}
 }
