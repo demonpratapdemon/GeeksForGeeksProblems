@@ -30,7 +30,7 @@ public class Utility {
 		return false;
 	}
 
-	public static void printLis(Node node) {
+	public static void printList(Node node) {
 		while (node != null) {
 			System.out.print (node.data +" ");
 			node = node.next;

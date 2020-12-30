@@ -34,7 +34,7 @@ public class ReverseLinkedList {
 				tail = tail.next;
 			}
 			Node reverse = reverseLinkedList(head);
-			Utility.printLis(reverse);
+			Utility.printList(reverse);
 		}
 	}
 

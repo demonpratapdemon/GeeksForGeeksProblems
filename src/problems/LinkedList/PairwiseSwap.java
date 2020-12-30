@@ -14,7 +14,7 @@ import problems.util.Utility;
  * @author PRATAP
  *
  */
-public class RotateLinkedList {
+public class PairwiseSwap {
 
 	/**
 	 * @param args
@@ -34,33 +34,29 @@ public class RotateLinkedList {
 				tail.next = new Node(Integer.parseInt(input[i]));
 				tail = tail.next;
 			}
-			int k = Integer.parseInt(br.readLine());
-			Node reverse = rotateLinkedList(head, k);
-			Utility.printList(reverse);
+
+			Node solution = pairwiseSwap(head);
+			Utility.printList(solution);
+
 		}
 	}
 
-	private static Node rotateLinkedList(Node head, int k) {
+	private static Node pairwiseSwap(Node head) {
 		// TODO Auto-generated method stub
 		if (head == null || head.next == null)
 			return head;
-		int n = 0;
-		Node tail = head;
-		while (tail.next != null) {
-			n++;
-			tail = tail.next;
-		}
-		n++;
-		if (k == n)
-			return head;
-		else {
-			Node temp;
-			while (k-- > 0) {
-				temp = head.next;
-				tail.next = new Node(head.data);
-				tail = tail.next;
-				head = null;
-				head = temp;
+		Node prev = head;
+		Node next = head.next;
+		int temp;
+		while (next != null) {
+			temp = next.data;
+			next.data = prev.data;
+			prev.data = temp;
+			if (next.next != null) {
+				prev = next.next;
+				next = prev.next;
+			} else {
+				next = next.next;
 			}
 		}
 		return head;

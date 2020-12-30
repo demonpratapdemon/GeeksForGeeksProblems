@@ -36,7 +36,7 @@ public class ReverseLinkedListInGroup {
 			}
 			int k = Integer.parseInt(br.readLine());
 			Node reverse = reverseLinkedListInGroup(head, k);
-			Utility.printLis(reverse);
+			Utility.printList(reverse);
 		}
 	}
 
