@@ -48,3 +48,8 @@ LINKED LIST
 7. **Flattening a Linked List ** = https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1#
 8. **Pairwise swap elements of a linked list** = https://practice.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/1
 9. **Add two numbers represented by linked lists** = https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1#
+
+
+HEAP
+==========================================
+1. **Find median in a stream** = https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0
