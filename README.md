@@ -53,3 +53,4 @@ LINKED LIST
 HEAP
 ==========================================
 1. **Find median in a stream** = https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0
+2. **Rearrange characters** = https://practice.geeksforgeeks.org/problems/rearrange-characters/0#
