@@ -27,7 +27,6 @@ Dynamic Programming
 1. **0/1 Knapsack problem(Top Down Memoization and Bottom Up** = https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0
 2. **Longest Common Subsequence(Bottom Up)** = https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0
 
-
 STRINGS
 ==========================================
 1. **Reverse words in a given String** = https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string/0
@@ -49,6 +48,9 @@ LINKED LIST
 8. **Pairwise swap elements of a linked list** = https://practice.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/1
 9. **Add two numbers represented by linked lists** = https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1#
 
+STACK AND QUEUE
+==========================================
+1. **Parenthesis Checker** = https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1
 
 HEAP
 ==========================================
