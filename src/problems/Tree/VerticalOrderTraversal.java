@@ -67,14 +67,14 @@ public class VerticalOrderTraversal {
 		// TODO Auto-generated method stub
 		bfsTraversal(root, map);
 		List<List<Integer>> list = new ArrayList<>();
-		for(Entry<Integer, List<Integer>>  ls: map.entrySet()) {
+		for (Entry<Integer, List<Integer>> ls : map.entrySet()) {
 			List<Integer> newlist = new ArrayList<Integer>();
-			for(Integer in : ls.getValue()) {
+			for (Integer in : ls.getValue()) {
 				newlist.add(in);
 			}
 			list.add(newlist);
 		}
-		
+
 		return list;
 	}
 
@@ -86,11 +86,11 @@ public class VerticalOrderTraversal {
 		queue.add(new Pair(root, 0));
 		Pair curr;
 		int size;
-		Map<Integer,Set<Integer>> temp = null;
+		Map<Integer, Set<Integer>> temp = null;
 		while (!queue.isEmpty()) {
 			size = queue.size();
 			Set<Integer> set = new TreeSet<Integer>();
-			temp= new TreeMap<>();
+			temp = new TreeMap<>();
 			while (size-- > 0) {
 				curr = queue.remove();
 				temp.putIfAbsent(curr.col, new TreeSet<Integer>());
@@ -104,14 +104,13 @@ public class VerticalOrderTraversal {
 					queue.add(new Pair(curr.treeNode.right, curr.col + 1));
 				}
 			}
-			
-			for(Integer key :temp.keySet()){
-                map.putIfAbsent(key,new ArrayList<>());
-                List<Integer> l= new ArrayList<>(temp.get(key));
-                map.get(key).addAll(l);
-            }
-			
-			
+
+			for (Integer key : temp.keySet()) {
+				map.putIfAbsent(key, new ArrayList<>());
+				List<Integer> l = new ArrayList<>(temp.get(key));
+				map.get(key).addAll(l);
+			}
+
 		}
 	}
 }

@@ -43,6 +43,17 @@ public class LargestNumberFormed {
         });
 		for(String in :arr)
 			sb.append(in);
+		int leadZeros = 0;
+        for(int i = 0; i < sb.length(); i++) {
+            if(sb.charAt(i) != '0')
+                break;
+            if(sb.charAt(i) == '0') {
+                leadZeros++;
+            }
+        }
+        sb.delete(0, leadZeros);
+        if(sb.length() == 0)
+        	return String.valueOf(0);
 		return sb.toString();
 	}
 
