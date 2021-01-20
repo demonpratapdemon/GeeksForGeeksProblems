@@ -35,26 +35,29 @@ public class LargestNumberFormed {
 	private static String printLargest(String[] arr, int n) {
 		// TODO Auto-generated method stub
 		StringBuilder sb = new StringBuilder();
-		Arrays.sort(arr, new Comparator<String>() {
-            @Override
-            public int compare(String s1, String s2) {
-            	return (s2+s1).compareTo(s1+s2);
-            }
-        });
-		for(String in :arr)
-			sb.append(in);
+		Arrays.sort(arr, new DefComparator());
 		int leadZeros = 0;
-        for(int i = 0; i < sb.length(); i++) {
-            if(sb.charAt(i) != '0')
-                break;
-            if(sb.charAt(i) == '0') {
-                leadZeros++;
-            }
-        }
-        sb.delete(0, leadZeros);
-        if(sb.length() == 0)
-        	return String.valueOf(0);
+		int p = 0;
+		for (String i : arr) {
+			sb.append(i);
+			if ((p - leadZeros == 0) && arr[p].equals("0")) {
+				leadZeros++;
+			}
+			p++;
+		}
+		sb.delete(0, leadZeros);
+		if (sb.length() == 0)
+			return String.valueOf(0);
 		return sb.toString();
 	}
+}
 
+class DefComparator implements Comparator<String> {
+
+	@Override
+	public int compare(String s1, String s2) {
+		// TODO Auto-generated method stub
+		return (s2 + s1).compareTo(s1 + s2);
+	}
+	
 }
