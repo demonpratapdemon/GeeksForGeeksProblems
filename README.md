@@ -61,6 +61,7 @@ HEAP
 Bit Magic
 ==========================================
 1. **Find first set bit** = https://practice.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1
+2. **Rightmost different bit ** = https://practice.geeksforgeeks.org/problems/rightmost-different-bit-1587115621/1
 
 LEETCODE
 ==========================================
