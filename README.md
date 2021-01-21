@@ -58,6 +58,9 @@ HEAP
 2. **Rearrange characters** = https://practice.geeksforgeeks.org/problems/rearrange-characters/0#
 3. **Kth largest element in a stream** = https://practice.geeksforgeeks.org/problems/kth-largest-element-in-a-stream/0
 
+Bit Magic
+==========================================
+1. **Find first set bit** = https://practice.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1
 
 LEETCODE
 ==========================================
