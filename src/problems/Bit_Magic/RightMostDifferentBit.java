@@ -32,7 +32,7 @@ public class RightMostDifferentBit {
 
 	private static int posOfRightMostDiffBit(int m, int n) {
 		// TODO Auto-generated method stub
-//		XOR will give only the bits where there is difference
+//		XOR will give only the bits where there is difference between m & n
 //		Then we use the logic to find the first set bit from right
 		return getFirstSetBit(m ^ n);
 	}
